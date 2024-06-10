@@ -1,0 +1,1 @@
+Simple stock picker for buying and selling
